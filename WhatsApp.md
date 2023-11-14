@@ -5,7 +5,8 @@ developers and third-party apps to automatically communicate through WhatsApp.
 
 ## Channel Integration
 
-To begin, you will need: 
+To begin, you will need:  
+
 - **A [Meta business Suite](https://business.facebook.com/) account** - Full control.  See the [official help page](https://www.facebook.com/business/help/1710077379203657?id=180505742745347) here for more
 information.  
 \- Create a Mete Business Suite account with an existing Facebook or Instagram account and  
@@ -25,7 +26,7 @@ please refer to the video 0:28 - 1:45)
 - **A payment method** on Meta WhatsApp business account, this is the requirement by Meta for  
 the future message templates. (Starting April 1, 2023)  
 
-NOTE: 
+NOTE:  
 **Do NOT** register the number on WhatsApp app.  **To be sure, the number is not yet registered  
 onthe  mobile WhatsApp app**. If it is an existing WA account, please delete it first.  
 (It can be already registered on Meta App, just follow our setup guide to change the webhook to  
@@ -38,7 +39,7 @@ iMBrace’s on Meta App and other settings.)
 and copy the **Webhook URL** and **Verification Token**.  
 **STEP 4**: In the Developer Console, in the left sidebar, go to **[WhatsApp] > [Configuration]**.  
 **STEP 5**: Under Webhook, enter the **Callback URL (Webhook URL)** and **Verify token (Verification  
-Token)** which copy from iMBrace. Next, click [Verify and save]. You can create your own token  
+Token)** which copy from iMBrace. Next, click **[Verify and save]**. You can create your own token  
 (For example: YIG579b), please make sure there is no space in the token.  
 **STEP 6**: Under Webhook fields, subscribe to the fields you want. (In this case, messages)  
 **STEP 7**: Turn on **[Live]** on the top side of the screen.  
@@ -52,8 +53,8 @@ copy the **Phone number ID** and **WhatsApp Business Account ID**.
 3:42 – 4:53)  
 **STEP 12**: In iMBrace, enter all three pieces of information in the corresponding fields. Then click  
 **[Create]** and click **[Active]**.   
-**DONE**: The channel account can then be used to send and receive messages through WhatsApp using the WhatsApp  
-and WhatsApp Trigger nodes.  
+**DONE**: The channel account can then be used to send and receive messages through WhatsApp  
+using the WhatsApp and WhatsApp Trigger nodes.  
 
 ## How to add WhatsApp business account payment method?
 ## (The requirement by Meta, starting April 1, 2023)
