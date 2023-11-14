@@ -1,6 +1,6 @@
 # Facebook
 
-Facebook allows messages to be sent and received using its credential. This allows developers 
+Facebook allows messages to be sent and received using its credential. This allows developers  
 and third-party apps to automatically communicate through Facebook.
 
 ## Connect with Facebook
