@@ -4,7 +4,9 @@ WeChat (also known as Weixin) allows messages to be sent and received using its 
 This allows developers and third-party apps to automatically communicate through WeChat.  
 
 ## Channel Integration
+
 To begin, you will need:  
+
 - A WeChat Official account.  
 - A server associated with the above account. For more information, see the [official  
 documentation page](https://developers.weixin.qq.com/doc/offiaccount/en/Basic_Information/Access_Overview.html) for setting up a server.
@@ -23,6 +25,5 @@ corresponding fields in iMBrace.
 册信息 (Registration information)** section and identify your **原始ID (Original ID)**, and enter this into  
 the **Original ID** field in iMBrace.  
 **STEP 8**: In iMBrace, click **[Create]**.
-
 **DONE**: The channel account can then be used to send and receive messages through WeChat  
 using the WeChat and WeChat Trigger nodes.
