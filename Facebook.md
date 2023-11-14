@@ -24,7 +24,7 @@ To begin, you will need:
 **STEP 3**: Key in the **6-digit code** and click **[Submit Code]**.  
 **STEP 4**: Click **[Continue as YOUR USERNAME]**.  
 **STEP 5**: Uncheck the **pages** you have connected with iMBrace App Stg and click **[Next]**.  
-**STEP 6**: Uncheck all the options and click **[Done]**.  
+**STEP 6**: Uncheck all the **options** and click **[Done]**.  
 **STEP 7**: Click **[OK]**.  
 
 **DONE**: You have disconnected the Facebook credential connection.
