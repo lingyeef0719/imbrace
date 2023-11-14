@@ -41,11 +41,13 @@ To begin, you will need:
 **STEP 2**: Go to **[Create New App] > [From scratch]**.  
 **STEP 3**: Enter an **App Name** and select the **workspace** the credential will be associated with, then  
 click **[Create App]**.  
-**STEP 4**: Under the **Basic Information > Add features and functionality** section, select **[Permissions]**.  
-**STEP 5**: Scroll down to the **Scopes** section and:
-If you want your app to act on behalf of users that authorize the app, add the required scopes  
+**STEP 4**: Under the **Basic Information > Add features and functionality** section, select  
+**[Permissions]**.  
+**STEP 5**: Scroll down to the **Scopes** section and:  
+- If you want your app to act on behalf of users that authorize the app, add the required scopes   
 under the **User Token Scopes** section.  
-If you're building a bot, add the required scopes under the **Bot Token Scopes** section.  
+- If you're building a bot, add the required scopes under the **Bot Token Scopes** section.
+
 **STEP 6**: From the **OAuth Tokens for Your Workspace** section click on the **Install to Workspace**   
 button.  
 **STEP 7**: Click on the **[Allow]** button.  
