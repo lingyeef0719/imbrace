@@ -1,5 +1,5 @@
 # Channels
->Connect to Facebook, WhatsApp, LINE, etc.
+### Connect to Facebook, WhatsApp, LINE, etc.
 
 Businesses often connect with their customers through social media (e.g. Facebook, Instagram)  
 and instant messaging (e.g. WhatsApp, LINE) platforms. iMBrace makes it easy to manage your  
