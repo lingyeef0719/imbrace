@@ -5,7 +5,9 @@ services through a cloud-based peer-to-peer software platform and is used for te
 telecommuting, distance education, and social relations.  
 
 ## Account integration using OAuth
+
 To begin, you will need:  
+
 - An [Zoom](https://zoom.us/) account.
 
 **STEP 1**: Visit the [Zoom App Marketplace](https://marketplace.zoom.us/) and select the **[Build App]** option in the **Develop**  
