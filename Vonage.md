@@ -1,6 +1,7 @@
 # Vonage
 
-[Vonage](https://vonage.com/) provides unified communications, contact centres, and programmable communications APIs.  
+[Vonage](https://vonage.com/) provides unified communications, contact centres, and programmable communications  
+APIs.  
 
 ## Account integration using API key
 
