@@ -18,12 +18,12 @@ need a phone number to verify it.
 \- If a prior account is available, make sure it is one of the full control users in Meta Business  
 Suite.  
 - An Meta App in the Developer Dashboard with the **WhatsApp Business Platform** enabled. See  
-the [official help page](https://developers.facebook.com/docs/development/create-an-app) for more information on creating apps. (Refer to the video 0:00 - 0:28)  
+the [official help page](https://developers.facebook.com/docs/development/create-an-app) for more information on creating apps. (Refer to the video 0:00 - 0:28)   
 - **A phone number you want to register a WhatsApp business account on Meta**, and please  
-make sure it is able to receive the SMS. (How to add a WhatsApp business number to Meta,
+make sure it is able to receive the SMS. (How to add a WhatsApp business number to Meta,  
 please refer to the video 0:28 - 1:45)  
-- **A payment method** on Meta WhatsApp business account, this is the requirement by Meta for
-the future message templates. (Starting April 1, 2023)
+- **A payment method** on Meta WhatsApp business account, this is the requirement by Meta for  
+the future message templates. (Starting April 1, 2023)  
 
 NOTE: 
 **Do NOT** register the number on WhatsApp app.  **To be sure, the number is not yet registered  
@@ -51,9 +51,9 @@ copy the **Phone number ID** and **WhatsApp Business Account ID**.
 **Generate new token (select an App and "Never" expired)** and copy it. (Please refer to the video  
 3:42 – 4:53)  
 **STEP 12**: In iMBrace, enter all three pieces of information in the corresponding fields. Then click  
-**[Create]** and click **[Active]**.
+**[Create]** and click **[Active]**.   
 **DONE**: The channel account can then be used to send and receive messages through WhatsApp using the WhatsApp  
-and WhatsApp Trigger nodes.
+and WhatsApp Trigger nodes.  
 
 ## How to add WhatsApp business account payment method?
 ## (The requirement by Meta, starting April 1, 2023)
